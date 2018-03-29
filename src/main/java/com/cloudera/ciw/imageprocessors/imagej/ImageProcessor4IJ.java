@@ -1,6 +1,6 @@
-package core.imageprocessors.ij;
+package com.cloudera.ciw.imageprocessors.imagej;
 
-import core.imageprocessors.CIWImageProcessor;
+import com.cloudera.ciw.imageprocessors.CIWImageProcessor;
 
 import java.util.Properties;
 

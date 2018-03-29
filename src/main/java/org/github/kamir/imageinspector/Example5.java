@@ -1,7 +1,7 @@
 package org.github.kamir.imageinspector;
 
-import core.imageprocessors.CIWImageProcessor;
-import core.NormalizeProcessor;
+import com.cloudera.ciw.imageprocessors.CIWImageProcessor;
+import com.cloudera.ciw.imageprocessors.imagej.NormalizeProcessor;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

@@ -1,4 +1,4 @@
-package core.imageprocessors;
+package com.cloudera.ciw.imageprocessors;
 
 import java.util.Properties;
 

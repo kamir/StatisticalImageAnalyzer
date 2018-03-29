@@ -1,4 +1,4 @@
-package core.imageprocessors;
+package com.cloudera.ciw.imageprocessors;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

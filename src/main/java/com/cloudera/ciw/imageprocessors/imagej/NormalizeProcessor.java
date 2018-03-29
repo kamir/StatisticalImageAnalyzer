@@ -1,4 +1,4 @@
-package core.imageprocessors.ij;
+package com.cloudera.ciw.imageprocessors.imagej;
 
 import ij.ImagePlus;
 import ij.io.FileSaver;
